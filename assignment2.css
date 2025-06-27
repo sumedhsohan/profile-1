@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    background-color: aquamarine;
+    height: 100vh;
+    width: 50vw;
+    flex-direction: column;
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 0px 0px 100px;
+}
+.first{
+    background-color: rgb(255, 0, 0);
+    width: 50vw;
+    height: 300px;
+
+}
+.second img{
+    height: 200px;
+    width: auto;
+    border-radius: 50%;
+    position: relative;
+    bottom: 600px;
+    left: 300px;
+
+}
+.third{
+    background-color: rgb(147, 147, 147);
+    width: 50vw;
+    height: 800px;
+    border-radius: 0px 0px 100px;
+}
